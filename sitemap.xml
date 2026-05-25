@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://chialing-dohui.github.io/</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://chialing-dohui.github.io/og.jpg</image:loc>
-      <image:title>張嘉玲 — 短影音編導 Portfolio</image:title>
+      <image:title>張嘉玲 — Creative Strategist / Storyteller Portfolio</image:title>
     </image:image>
   </url>
 </urlset>
